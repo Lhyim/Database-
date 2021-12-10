@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvAnimals" type="id" />
+    <item name="textViewSpecies" type="id" />
+    <item name="textViewHabitat" type="id" />
+</resources>
